@@ -1,0 +1,11 @@
+{
+  "name": "testmoduletorevertstring",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
